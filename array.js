@@ -1,4 +1,4 @@
-//1. Criar, filtrar elementos, percorrer os itens, 
+//1. Criar, filtrar elementos
 let nomes = ['Ana', 'Bia', 'Carlos', 'Daniel', 'Eduardo']
 let carros = []
 
